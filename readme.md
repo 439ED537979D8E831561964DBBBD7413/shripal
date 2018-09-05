@@ -1,4 +1,4 @@
-# Tranxit Request Features
+# Dronide Request Features
 
 * Promocode
 * Wallet
